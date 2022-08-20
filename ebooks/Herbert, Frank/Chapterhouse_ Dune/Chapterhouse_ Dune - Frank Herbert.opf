@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5594abd3-a713-4cbf-9666-ea24e7779efa</dc:identifier>
+        <dc:title>Chapterhouse: Dune</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-06T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The desert planet Arrakis, called Dune, has been destroyed. Now, the Bene Gesserit, heirs to Dune's power, have colonized a green world&amp;#8212;and are turning it into a desert, mile by scorched mile. Here is the last book Frank Herbert wrote before his death. A stunning climax to the epic Dune legend that will live on forever...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781440619236</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Herbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-24T04:32:44.575738+00:00"/>
+        <meta name="calibre:title_sort" content="Chapterhouse: Dune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Chapterhouse_ Dune - Frank Herbert.jpg"/>
+    </guide>
+</package>
